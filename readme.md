@@ -8,6 +8,6 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 
-[![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&count_private=true&show_icons=true&theme=Gradient)](https://github.com/FelipeFerreiraDev/github-readme-stats)
+[![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FelipeFerreiraDev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerreiraDev&layout=compact)](https://github.com/FelipeFerreiraDev/github-readme-stats)
 
