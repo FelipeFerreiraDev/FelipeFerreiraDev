@@ -5,4 +5,4 @@
 
 - [Website](https://felipeferreiradev.github.io/personal-website-v2/) 💻 - Meu site pessoal.
 
-[![NodeJs Badge]https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white]
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white]
