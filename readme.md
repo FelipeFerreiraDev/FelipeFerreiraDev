@@ -5,6 +5,6 @@
 
 - [Website](https://felipeferreiradev.github.io/personal-website-v2/) 💻 - Meu site pessoal.
 
-[![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FelipeFerreiraDev/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerreiraDev&layout=compact&theme=tokyonight)](https://github.com/FelipeFerreiraDev/github-readme-stats)
+[![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FelipeFerreiraDev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerreiraDev&layout=compact&theme=tokyonight)](https://github.com/FelipeFerreiraDev)
 
