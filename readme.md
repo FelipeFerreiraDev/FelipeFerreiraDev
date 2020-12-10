@@ -8,4 +8,4 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 
-[![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/FelipeFerreiraDev/github-readme-stats)
+[![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&show_icons=true&theme=tokyonight&count_private)](https://github.com/FelipeFerreiraDev/github-readme-stats)
