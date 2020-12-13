@@ -7,7 +7,7 @@
 
 - [Website](https://felipeferreiradev.github.io/personal-website-v2/) 💻 - Meu site pessoal.
 
-My name is Felipe Ferreira, I'm from Brazil. I have been studying programming since 2017 and am currently a PIBITI scholarship holder at the State University of Northern Paraná (UENP). I am passionate about programming mainly for web and mobile development.
+My name is Felipe Ferreira, I'm from Brazil. I have been studying programming since 2017 and am currently a PIBITI scholarship holder at the Universidade Estadual do Norte do Paraná (UENP). I am passionate about programming mainly for web and mobile development.
 
 In my free time I like to train jiu-jitsu, watch movies, series and talk with my friends about different subjects. Of course, codes are also part of that.
 
