@@ -11,7 +11,7 @@ My name is Felipe Ferreira, I'm from Brazil. I have been studying programming si
 
 In my free time I like to train jiu-jitsu, watch movies, series and talk with my friends about different subjects. Of course, codes are also part of that.
 
-Never stop learning !!
+Never stop learning !!!
 
 [![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FelipeFerreiraDev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerreiraDev&layout=compact&theme=tokyonight)](https://github.com/FelipeFerreiraDev)
