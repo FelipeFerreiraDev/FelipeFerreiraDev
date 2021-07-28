@@ -13,9 +13,5 @@ In my free time I like to train jiu-jitsu, watch movies, series and talk with my
 Never stop learning !!!
 
 
-<p align=center>
 [![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FelipeFerreiraDev)
-</p>
-<p align=center>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerreiraDev&layout=compact&theme=tokyonight)](https://github.com/FelipeFerreiraDev)
-</p>
