@@ -12,7 +12,6 @@ In my free time I like to train jiu-jitsu, watch movies, series and talk with my
 Never stop learning !!!
 
 <b>Languages I'm interested in</b>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
