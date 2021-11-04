@@ -27,7 +27,7 @@ Never stop learning!!!
  </div><br>
 
 
-[![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FelipeFerreiraDev)
+[![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FelipeFerreiraDev) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerreiraDev&layout=compact&theme=tokyonight)](https://github.com/FelipeFerreiraDev)
 
 ![Snake animation](https://github.com/FelipeFerreiraDev/FelipeFerreiraDev/blob/output/github-contribution-grid-snake.svg)
