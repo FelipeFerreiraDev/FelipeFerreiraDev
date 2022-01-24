@@ -13,7 +13,7 @@ Together with my group in the year 2021 we won third place in the hackathon prom
   
 In my free time I like to train jiu-jitsu, watch movies, series and talk to my friends about different subjects. Of course, codes are also part of this.
 
-Never stop learning!!
+Never stop learning !!!
 
 <b>Languages I'm interested in</b>
 <div style="display: inline_block"><br>
