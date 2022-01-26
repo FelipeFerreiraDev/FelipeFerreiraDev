@@ -25,9 +25,36 @@ Never stop learning !!!
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  </div><br>
+  
+  ![Snake animation](https://github.com/FelipeFerreiraDev/FelipeFerreiraDev/blob/output/github-contribution-grid-snake.svg)
 
 
-[![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/FelipeFerreiraDev) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerreiraDev&layout=compact&theme=tokyonight)](https://github.com/FelipeFerreiraDev)
+<h2>ℹ️ &nbsp;Github Info</h2>
+  
+  <summary><b>⚡ Github Stats</b></summary>
+  </br>
+  
+[![FelipeFerreiraDev github stats](https://github-readme-stats.vercel.app/api?username=FelipeFerreiraDev&count_private=true&show_icons=true&theme=radical)](https://github.com/FelipeFerreiraDev) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeFerreiraDev&layout=compact&theme=radical)](https://github.com/FelipeFerreiraDev)
 
-![Snake animation](https://github.com/FelipeFerreiraDev/FelipeFerreiraDev/blob/output/github-contribution-grid-snake.svg)
+  <summary><b>🔎 Github Profile Details</b></summary>
+  </br>
+  
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FelipeFerreiraDev&theme=monokai" alt="FelipeFerreiraDev" align = "center"/></p>
+
+  <summary><b>🔥 Github Streaks</b></summary>
+  </br>
+  
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeFerreiraDev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="FelipeFerreiraDev" /></p>
+
+  <summary><b>📊 Github Contribution Graph</b></summary>
+  </br>
+  
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FelipeFerreiraDev&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!-- </details>
+<details>    -->
+
+  <summary><b>🏆 Github Achievements</b></summary>
+  </br>
+  
+<p align="center"> <a href="https://github.com/FelipeFerreiraDev"><img src="https://github-profile-trophy.vercel.app/?username=FelipeFerreiraDev&margin-w=5&theme=radical" alt="FelipeFerreiraDev" /></a> </p>
