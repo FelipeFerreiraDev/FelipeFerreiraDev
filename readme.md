@@ -8,7 +8,7 @@
 My name is Felipe Ferreira, I'm from Brazil. I study programming since 2017, I was a PIBITI scholarship holder by the State University of Northern Paraná (UENP) for the year 2020-2021. I am passionate about programming mainly for web and mobile development.
 
 :trophy:
-Together with my group in the year 2021 we won third place in the hackathon promoted by Genius.Conecta see the project in the repository <a href="https://github.com/FelipeFerreiraDev/Remapeando_o_campus"> Remapeando_o_Campus<a>
+Together with my group in the year 2021 we won third place in the hackathon promoted by Genius.Conecta see the project in the repository <a href="https://github.com/FelipeFerreiraDev/Remapeando_o_campus"> Remapeando o Campus<a>
 :3rd_place_medal:
   
 In my free time I like to train jiu-jitsu, watch movies, series and talk to my friends about different subjects. Of course, codes are also part of this.
