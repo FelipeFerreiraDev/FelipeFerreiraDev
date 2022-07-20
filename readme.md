@@ -1,9 +1,7 @@
 <img src="https://github.com/FelipeFerreiraDev/FelipeFerreiraDev/blob/main/Banner.png?raw=true">
 
 
-# Hello i'm Felipe Ferreira
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=EF5A8C&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Felipe+Ferreira!;Seja+bem+vindo+ao+meu+portf%C3%B3lio!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=5ce1e6&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Felipe+Ferreira!;Seja+bem+vindo+ao+meu+portf%C3%B3lio!)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-ferreira-62147a178/)](https://www.linkedin.com/in/felipe-ferreira-62147a178/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:felipeferreira.sp.dev@gmail.com)](mailto:felipeferreira.sp.dev@gmail.com/)
@@ -75,5 +73,7 @@ Never stop learning !!!
   <img src="https://github-profile-trophy.vercel.app/?username=felipeferreiradev&column=8&theme=onedark" />
 </div>
 
+  </br>
+  
   ![Graph animation](./profile-3d-contrib/profile-night-rainbow.svg)
 </details>
