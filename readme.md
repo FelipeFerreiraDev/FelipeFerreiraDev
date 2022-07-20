@@ -33,7 +33,7 @@ Never stop learning !!!
 
 
 <h2>ℹ️ &nbsp;Github Info</h2>
-  
+  <details>
   <summary><b>⚡ Github Stats</b></summary>
   </br>
   
@@ -61,3 +61,4 @@ Never stop learning !!!
   </br>
   
 <p align="center"> <a href="https://github.com/FelipeFerreiraDev"><img src="https://github-profile-trophy.vercel.app/?username=FelipeFerreiraDev&margin-w=5&theme=radical" alt="FelipeFerreiraDev" /></a> </p>
+</details>
