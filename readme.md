@@ -30,7 +30,7 @@ Never stop learning !!!
  </div><br>
   
   ![Snake animation](https://github.com/FelipeFerreiraDev/FelipeFerreiraDev/blob/output/github-contribution-grid-snake.svg)
-
+  
 
 <h2>ℹ️ &nbsp;Github Info</h2>
   <details>
@@ -61,4 +61,6 @@ Never stop learning !!!
   </br>
   
 <p align="center"> <a href="https://github.com/FelipeFerreiraDev"><img src="https://github-profile-trophy.vercel.app/?username=FelipeFerreiraDev&margin-w=5&theme=radical" alt="FelipeFerreiraDev" /></a> </p>
+
+  ![Graph animation](./profile-3d-contrib/profile-night-rainbow.svg)
 </details>
