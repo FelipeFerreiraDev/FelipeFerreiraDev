@@ -1,3 +1,6 @@
+<img src="https://github.com/FelipeFerreiraDev/FelipeFerreiraDev/blob/main/Banner.png?raw=true">
+
+
 # Hello i'm Felipe Ferreira
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=EF5A8C&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Felipe+Ferreira!;Seja+bem+vindo+ao+meu+portf%C3%B3lio!)](https://git.io/typing-svg)
