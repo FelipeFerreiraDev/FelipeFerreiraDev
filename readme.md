@@ -70,7 +70,7 @@ Never stop learning !!!
   </br>
   
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipeferreiradev&column=8&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=felipeferreiradev&theme=juicyfresh&margin-w=15&no-bg=true&no-frame=true" />
 </div>
 
   </br>
