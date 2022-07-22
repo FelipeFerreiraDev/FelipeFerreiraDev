@@ -77,3 +77,10 @@ Never stop learning !!!
   
   ![Graph animation](./profile-3d-contrib/profile-night-rainbow.svg)
 </details>
+
+<h2>ℹ️ &nbsp;Musics</h2>
+<div align="center">
+  
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=scorpionex2000)
+
+</div>
