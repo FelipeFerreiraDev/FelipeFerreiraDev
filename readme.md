@@ -31,11 +31,7 @@ Never stop learning !!!
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
- </div><br>
-  
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/FelipeFerreiraDev/FelipeFerreiraDev/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
- 
+ </div><br> 
   
 
 <h2>ℹ️ &nbsp;Github Info</h2>
@@ -75,11 +71,6 @@ Never stop learning !!!
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=felipeferreiradev&theme=juicyfresh&margin-w=15&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,PullRequest,Repositories" />
 </div>
-
-  </br>
-  </br>
-  
-  ![Graph animation](./profile-3d-contrib/profile-night-rainbow.svg)
 </details>
 
 <h2>ℹ️ &nbsp;Musics</h2>
