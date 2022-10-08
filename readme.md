@@ -18,14 +18,25 @@ In my free time I like to go to the gym, watch movies, series and talk to my fri
 A phrase that I like a lot and encourages me is:
 
 <h4>Never stop learning !!!<h4>
- 
+  
+<h4>Domain: <h4>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />   
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  
  <h2>:trophy: &nbsp;Achievements and awards</h2>
   <h4> 🥇 1º lugar Hackathon Genius.Con(2022) - SEBRAE</h4>
   <h4> 🥇 1º lugar Hackathon Front-end(2022) - UENP</h4>
   <h4> 🥈 2º lugar Hackathon HandsON(2021) - UENP</h4>
   <h4> 🥉 3º lugar Hackathon Genius.Con(2021) - SEBRAE</h4>
-
-
  
 
 <h2>ℹ️ &nbsp;Github Info</h2>
