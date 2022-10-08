@@ -29,7 +29,7 @@ Never stop learning !!!
   <img align="center" alt="Felipe-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
  </div><br> 
  
- <h2>ℹ️ &nbsp;Achievements and awards</h2>
+ <h2>:trophy: &nbsp;Achievements and awards</h2>
   <h4> 🥇 1º lugar Hackathon Genius.Con(2022) - SEBRAE</h4>
   <h4> 🥇 1º lugar Hackathon Front-end(2022) - UENP</h4>
   <h4> 🥈 2º lugar Hackathon HandsON(2021) - UENP</h4>
@@ -76,10 +76,3 @@ Never stop learning !!!
   <img src="https://github-profile-trophy.vercel.app/?username=felipeferreiradev&theme=juicyfresh&margin-w=15&no-bg=true&no-frame=true&title=Stars,Followers,MultiLanguage,Commits,PullRequest,Repositories" />
 </div>
 </details>
-
-<h2>ℹ️ &nbsp;Musics</h2>
-<div align="center">
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=scorpionex2000&unique=true)
-
-</div>
