@@ -11,11 +11,13 @@
 
 #Feel free to contact me!!!
 
-My name is Felipe Ferreira, I'm from Brazil. I have studied programming since 2017, I was a PIBITI fellow at the State University of Northern Paraná (UENP) in the year 2020-2021. I am passionate about programming mainly for web and mobile development. I really like to study about everything that involves the technological world.
+My name is Felipe Ferreira, I'm from Brazil. I've been studying programming since 2017, I'm passionate about programming mainly for web and mobile development. I really like to study about everything that involves the technological world.
   
 In my free time I like to go to the gym, watch movies, series and talk to my friends about various subjects.
 
-Never stop learning !!!
+A phrase that I like a lot and encourages me is:
+
+<h4>Never stop learning !!!<h4>
  
  <h2>:trophy: &nbsp;Achievements and awards</h2>
   <h4> 🥇 1º lugar Hackathon Genius.Con(2022) - SEBRAE</h4>
