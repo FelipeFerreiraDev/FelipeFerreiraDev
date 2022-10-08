@@ -28,10 +28,16 @@ A phrase that I like a lot and encourages me is:
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+
+
+ <h3>Studying: <h3>
+  <img src="https://img.shields.io/badge/Clean_Architecture-20232A?style=for-the-badge&logo=clean_architecture&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  
+
  <h2>:trophy: &nbsp;Achievements and awards</h2>
   <h4> 🥇 1º lugar Hackathon Genius.Con(2022) - SEBRAE</h4>
   <h4> 🥇 1º lugar Hackathon Front-end(2022) - UENP</h4>
