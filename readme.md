@@ -12,10 +12,6 @@
 #Feel free to contact me!!!
 
 My name is Felipe Ferreira, I'm from Brazil. I have studied programming since 2017, I was a PIBITI fellow at the State University of Northern Paraná (UENP) in the year 2020-2021. I am passionate about programming mainly for web and mobile development. I really like to study about everything that involves the technological world.
-
-:trophy:
-Together with my group in the year 2021 we won third place in the hackathon promoted by Genius.Conecta see the project in the repository <a href="https://github.com/FelipeFerreiraDev/Remapeando_o_campus"> Remapeando o Campus<a>
-:3rd_place_medal:
   
 In my free time I like to go to the gym, watch movies, series and talk to my friends about various subjects.
 
@@ -32,10 +28,18 @@ Never stop learning !!!
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Felipe-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
  </div><br> 
-  
+ 
+ <h2>ℹ️ &nbsp;Achievements and awards</h2>
+  <h4> 🥇 1º lugar Hackathon Genius.Con(2022) - SEBRAE</h4>
+  <h4> 🥇 1º lugar Hackathon Front-end(2022) - UENP</h4>
+  <h4> 🥈 2º lugar Hackathon HandsON(2021) - UENP</h4>
+  <h4> 🥉 3º lugar Hackathon Genius.Con(2021) - SEBRAE</h4>
+
+
+ 
 
 <h2>ℹ️ &nbsp;Github Info</h2>
-  <details>
+  <details>  
   <summary><b>⚡ Github Stats</b></summary>
   </br>
   
