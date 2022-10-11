@@ -17,7 +17,7 @@ In my free time I like to go to the gym, watch movies, series and talk to my fri
 
 A phrase that I like a lot and encourages me is:
 
-<h4>Never stop learning !!!<h4>
+<h4>Never stop learning !!<h4>
   
 <h3>Domain: <h3>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />   
