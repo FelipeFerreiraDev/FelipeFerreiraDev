@@ -41,10 +41,10 @@ A phrase that I like a lot and encourages me is:
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 
  <h2>:trophy: &nbsp;Achievements and awards</h2>
-  <h4> 🥇 First place Hackathon Genius.Con(2022) - SEBRAE</h4>
-  <h4> 🥇 First place Hackathon Front-end(2022) - UENP</h4>
-  <h4> 🥈 Second place Hackathon HandsON(2021) - UENP</h4>
-  <h4> 🥉 Third place Hackathon Genius.Con(2021) - SEBRAE</h4>
+  <h4> 🥇 - First place Hackathon Genius.Con(2022) - SEBRAE</h4>
+  <h4> 🥇 - First place Hackathon Front-end(2022) - UENP</h4>
+  <h4> 🥈 - Second place Hackathon HandsON(2021) - UENP</h4>
+  <h4> 🥉 - Third place Hackathon Genius.Con(2021) - SEBRAE</h4>
  
 
 <h2>ℹ️ &nbsp;Github Info</h2>
