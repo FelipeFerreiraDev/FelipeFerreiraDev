@@ -5,10 +5,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-ferreira-62147a178/)](https://www.linkedin.com/in/felipe-ferreira-62147a178/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:felipeferreira.sp.dev@gmail.com)](mailto:felipeferreira.sp.dev@gmail.com/)
-[![Me Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
-)](https://felipeferreiradev.github.io/Portfolio/)
-
-
+<a href="https://github.com/FelipeFerreiraDev/FelipeFerreiraDev/blob/main/Curriculo-10-2022.pdf">
+  <img src="https://img.shields.io/badge/Meu_Curriculo-20232A?style=for-the-badge&logo=meu_curriculo&logoColor=white" /> 
+</a>
+  
 #Feel free to contact me!!!
 
 My name is Felipe Ferreira, I'm from Brazil. I've been studying programming since 2017, I'm passionate about programming mainly for web and mobile development. I really like to study about everything that involves the technological world.
