@@ -72,7 +72,7 @@ A phrase that I like a lot and encourages me is:
   <summary><b>📊 Github Contribution Graph</b></summary>
   </br>
   
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FelipeFerreiraDev&bg_color=0D1117&color=5ce1e6&line=f5ce1e&point=FFFFFF&hide_border=true&" /></a></p>
+<p align="center"<a href="#"><img alt="Felipe Ferreira Graph" src="https://activity-graph.herokuapp.com/graph?username=FelipeFerreiraDev&bg_color=0D1117&color=5ce1e6&line=f5ce1e&point=FFFFFF&hide_border=true&" /></a></p>
 <!-- </details>
 <details>    -->
 
