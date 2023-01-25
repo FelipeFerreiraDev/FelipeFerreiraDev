@@ -69,13 +69,6 @@ A phrase that I like a lot and encourages me is:
   
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeFerreiraDev&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" alt="FelipeFerreiraDev" /></p>
 
-  <summary><b>📊 Github Contribution Graph</b></summary>
-  </br>
-  
-<p align="center"<a href="#"><img alt="Felipe Ferreira Graph" src="https://activity-graph.herokuapp.com/graph?username=FelipeFerreiraDev&bg_color=0D1117&color=5ce1e6&line=f5ce1e&point=FFFFFF&hide_border=true&" /></a></p>
-<!-- </details>
-<details>    -->
-
   <summary><b>🏆 Github Achievements</b></summary>
   </br>
   
