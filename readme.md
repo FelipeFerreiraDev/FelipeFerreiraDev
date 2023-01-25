@@ -34,6 +34,7 @@ A phrase that I like a lot and encourages me is:
 
 
  <h3>Studying: <h3>
+  <img src="https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=E44C30" />
   <img src="https://img.shields.io/badge/Clean_Architecture-20232A?style=for-the-badge&logo=clean_architecture&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
