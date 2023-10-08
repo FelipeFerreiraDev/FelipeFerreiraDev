@@ -46,6 +46,7 @@ A phrase that I like a lot and encourages me is:
   <h4> 🥇 - First place Hackathon Front-end(2022) - UENP</h4>
   <h4> 🥈 - Second place Hackathon HandsON(2021) - UENP</h4>
   <h4> 🥉 - Third place Hackathon Genius.Con(2021) - SEBRAE</h4>
+  <h4> 🥉 - Third place Hackathon Genius.Con(2023) - SEBRAE</h4>
  
 
 <h2>ℹ️ &nbsp;Github Info</h2>
