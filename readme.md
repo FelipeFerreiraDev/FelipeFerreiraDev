@@ -1,4 +1,4 @@
-<img src="https://github.com/FelipeFerreiraDev/FelipeFerreiraDev/blob/main/Banner.png?raw=true">
+<img src="https://github.com/FelipeFerreiraDev/FelipeFerreiraDev/blob/main/Banner.png?raw=true" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=5ce1e6&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Felipe+Ferreira!;Seja+bem+vindo+ao+meu+portf%C3%B3lio!)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@ A phrase that I like a lot and encourages me is:
 
 <h4>Never stop learning !!</h4>
   
-<h3>Domain: </h3>
+<h3>Domain:</h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />   
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -33,13 +33,15 @@ A phrase that I like a lot and encourages me is:
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 
- <h3>Studying: <h3>
-  <img src="https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=E44C30" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-20232A?style=for-the-badge&logo=clean_architecture&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<h3>Studying:</h3>
+<p>
+    <img src="https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=E44C30" />
+    <img src="https://img.shields.io/badge/Clean_Architecture-20232A?style=for-the-badge&logo=clean_architecture&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" />
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+ </p>
 
  <h2>:trophy: &nbsp;Achievements and awards</h2>
   <h4> 🥇 - First place Hackathon Genius.Con(2022) - SEBRAE</h4>
