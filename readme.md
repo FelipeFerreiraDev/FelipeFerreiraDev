@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=38&color=5ce1e6&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+Felipe+Ferreira!;Seja+bem+vindo+ao+meu+portf%C3%B3lio!)](https://git.io/typing-svg)
 
+[![Medium Badge](https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@felipeferreira.sp.dev)](https://medium.com/@felipeferreira.sp.dev)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-ferreira-62147a178/)](https://www.linkedin.com/in/felipe-ferreira-62147a178/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:felipeferreira.sp.dev@gmail.com)](mailto:felipeferreira.sp.dev@gmail.com/)
 <a href="https://github.com/FelipeFerreiraDev/FelipeFerreiraDev/blob/main/Curriculo2023.pdf">
@@ -35,6 +36,7 @@ A phrase that I like a lot and encourages me is:
 
 <h3>Studying:</h3>
 <p>
+    <img src="https://img.shields.io/badge/Bun-100000?style=for-the-badge&logo=bun&logoColor=white" />
     <img src="https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust&logoColor=E44C30" />
     <img src="https://img.shields.io/badge/Clean_Architecture-20232A?style=for-the-badge&logo=clean_architecture&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> 
